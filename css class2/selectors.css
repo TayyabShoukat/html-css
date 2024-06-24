@@ -1,0 +1,21 @@
+p{
+    color:blue;
+}
+
+body{
+    background-color: #606c38;
+}
+
+.headingWithBrownColor{
+    color:rgb(188, 237, 9,0.2);
+    text-align: center;
+}
+
+.headingWithZinkColor{
+    color:orange;
+    text-align: right;
+}
+
+#headingWithID{
+    color: green;
+}
