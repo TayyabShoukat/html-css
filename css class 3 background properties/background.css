@@ -1,0 +1,102 @@
+body {
+  background-color: #edf2f4;
+  background-image: url("/images/banner1.png");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.p1 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: dashed;
+  border-width: 20px;
+  border-color: blueviolet;
+}
+
+.p2 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: dotted;
+  border-width: 15px;
+}
+
+.p3 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: double;
+}
+
+.p4 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: groove;
+}
+
+.p5 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: solid;
+}
+
+.p6 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: ridge;
+}
+.p7 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: inset;
+}
+
+.p8 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: outset;
+}
+.p4 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: groove;
+}
+.p4 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: groove;
+}
+.p4 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: groove;
+}
+.p4 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: groove;
+}
+.p4 {
+  color: #ca6702;
+  font-weight: bold;
+  font-size: medium;
+  border-style: groove;
+}
+
+
+
+
+
+
