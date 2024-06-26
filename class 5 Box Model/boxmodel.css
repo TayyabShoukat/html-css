@@ -1,0 +1,15 @@
+body {
+  background-color: antiquewhite;
+}
+
+.p1 {
+  border-style: solid;
+  padding: 20px;
+  margin: 100px;
+}
+
+.p2 {
+  border-style: solid;
+  padding: 10px 20px;
+  margin: 20px 50px 50px 100px;
+}
