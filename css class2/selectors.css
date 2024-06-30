@@ -16,6 +16,6 @@ body{
     text-align: right;
 }
 
-#headingWithID{
-    color: green;
+#headingWithID1{
+    color: 	hsl(0, 100%, 50%);
 }
