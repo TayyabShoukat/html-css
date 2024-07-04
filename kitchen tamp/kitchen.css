@@ -1,0 +1,124 @@
+.main{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+.d1{
+    display: flex;
+    flex-direction: row;
+}
+.l{
+    width: 40%;
+}
+.c{
+    width: 40%;
+}
+.r{
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+#he2{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#K{
+    color: rgb(148, 148, 10);
+}
+.fo{
+    margin-top: 20px;
+
+}
+.all{
+    display: flex;
+    flex-direction: row;
+}
+.l1{
+    font-size: xx-large;
+    margin-left: 30px;
+}
+.left{
+    width: 40%;
+}
+.right{
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+}
+.d2{
+    background-color: rgba(6, 135, 70, 0.792);
+    color: white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+}
+#sp2{
+    font-weight: bold;
+    font-size: larger;
+}
+.d3{
+    background-color: rgb(158, 223, 28);
+    color: white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+}
+.d4{
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.one{
+    width: 60%;
+}
+.two{
+    width: 40%;
+}
+
+#image{
+    width:80%;
+   
+}
+#l3{
+    margin-left: 250px;
+}
+#l4{
+    margin-left: 50px;
+    font-size: xx-large;
+}
+#l5{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.l6{
+    font-size: larger;
+}
+.s{
+    display: flex;
+    flex-direction: row;
+}
+#b1{
+    margin-top: 10px;
+    width: 400px;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    border: 0px;
+    height: 50px;
+    
+}
